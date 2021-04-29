@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Im ben and I program and use livestream tools for OBS.
+I use it to help better my understanding of Github and text coding as I am farly beginner in those parts.
+
+# What im doing 📹
+Right now im making a websites for myself and my business with Github pages and learning from other programs on Github.
